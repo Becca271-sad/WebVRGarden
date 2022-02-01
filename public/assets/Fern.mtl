@@ -1,0 +1,12 @@
+# Blender MTL File: 'low poly collection.blend'
+# Material Count: 1
+
+newmtl Dark_green
+Ns 136.111116
+Ka 1.000000 1.000000 1.000000
+Kd 0.034409 0.110228 0.005018
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
